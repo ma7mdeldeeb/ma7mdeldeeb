@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mohamed Ali Eldeeb 
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning back end python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
 
 <!---
 ma7mdeldeeb/ma7mdeldeeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
